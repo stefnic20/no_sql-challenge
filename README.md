@@ -1,4 +1,13 @@
+No Sql Challenge
 
+Introduction - The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
+Challenge Elements 
 
-![image](https://github.com/stefnic20/no_sql-challenge/assets/156013205/3fc85c7c-8b70-4a22-a4a2-9fbe8f8cc3c4)
+- Database and Jupyter Notebook Set Up
+- 
+- Update the Database
+- 
+- Exploratory Analysis
+
+- 
