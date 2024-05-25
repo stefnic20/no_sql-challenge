@@ -5,9 +5,7 @@ Introduction - The UK Food Standards Agency evaluates various establishments acr
 Challenge Elements 
 
 - Database and Jupyter Notebook Set Up
-- 
 - Update the Database
-- 
 - Exploratory Analysis
 
-- 
+
